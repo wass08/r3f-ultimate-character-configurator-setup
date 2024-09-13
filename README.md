@@ -1,8 +1,8 @@
-# React + Vite
+# React Three Fiber Ultimate Character Configurator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Part 1 - Project Setup
 
-Currently, two official plugins are available:
+![Video thumbnail](https://github.com/user-attachments/assets/d57e9947-e737-4ee0-a77f-afbfcd4c44c2)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Video tutorial](https://youtu.be/gIIV-FzdW00)
+
